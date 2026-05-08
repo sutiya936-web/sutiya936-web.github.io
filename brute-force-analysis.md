@@ -22,3 +22,4 @@ I used a simple Python script to group these failed attempts by IP address to fi
 
 ## 4. Conclusion
 By analyzing this data, we can create a "Blocklist" to automatically update firewall rules.
+![Security Terminal Analysis](terminal-screen.png)
