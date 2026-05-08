@@ -19,6 +19,7 @@ On this site, you will find my analysis reports, code snippets, and technical re
 ### 📂 Research & Reports
 * [Analysis of SSH Brute Force Attacks](brute-force-analysis.md)
 * [Visualizing SQL Injection Patterns](sql-injection-analysis.md)
+* [Mapping Network Traffic with Wireshark](wireshark-analysis.md)
 
 
 *Stay tuned for my first deep-dive report!*
