@@ -1,10 +1,13 @@
 
 ---
 layout: default
+
 title: Home
+
 ---
 
 # Welcome to The Secure Analyst 🛡️
+
 ## Bridging Cybersecurity and Data Analysis
 
 I am a BCA student documenting my journey through the world of security data. 
