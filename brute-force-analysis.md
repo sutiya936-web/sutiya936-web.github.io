@@ -1,11 +1,13 @@
 
 ---
 layout: default
+
 title: Analyzing Brute Force Patterns
+
 ---
 
 # Analysis of SSH Brute Force Attacks
-**By: [Your Name]**
+**By: [Neha Lamba]
 
 In this report, I explore how we can use Python to identify automated login attempts in server logs.
 
